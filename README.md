@@ -1,10 +1,10 @@
 # Site-teste
 App simples que buscar o valor do dolar atualizado na api awesomeapi 
 ## tecnologias
--HTML
--CSS
--javaScript
--VsCode 
+- HTML
+- CSS
+- javaScript
+- VsCode 
 ## Como executar
 1 Clonte este repositorio
 2 Abra com VsCode
