@@ -6,6 +6,6 @@ App simples que buscar o valor do dolar atualizado na api awesomeapi
 - javaScript
 - VsCode 
 ## Como executar
-1 Clone este repositorio
-2 Abra com VsCode
-3 Execute o arquivo index.hmtl com Live Server 
+- 1 Clone este repositorio
+- 2 Abra com VsCode
+- 3 Execute o arquivo index.hmtl com Live Server 
